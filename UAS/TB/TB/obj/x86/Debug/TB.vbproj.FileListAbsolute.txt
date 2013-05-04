@@ -1,0 +1,36 @@
+C:\Users\Cun\AppData\Local\Temporary Projects\TB\bin\Debug\TB.exe
+C:\Users\Cun\AppData\Local\Temporary Projects\TB\bin\Debug\TB.pdb
+C:\Users\Cun\AppData\Local\Temporary Projects\TB\bin\Debug\TB.xml
+C:\Users\Cun\AppData\Local\Temporary Projects\TB\obj\x86\Debug\TB.Form1.resources
+C:\Users\Cun\AppData\Local\Temporary Projects\TB\obj\x86\Debug\TB.Resources.resources
+C:\Users\Cun\AppData\Local\Temporary Projects\TB\obj\x86\Debug\TB.vbproj.GenerateResource.Cache
+C:\Users\Cun\AppData\Local\Temporary Projects\TB\obj\x86\Debug\TB.exe
+C:\Users\Cun\AppData\Local\Temporary Projects\TB\obj\x86\Debug\TB.xml
+C:\Users\Cun\AppData\Local\Temporary Projects\TB\obj\x86\Debug\TB.pdb
+D:\semester 4\Pemrograman Visual\TB\TB\bin\Debug\TB.exe
+D:\semester 4\Pemrograman Visual\TB\TB\bin\Debug\TB.pdb
+D:\semester 4\Pemrograman Visual\TB\TB\bin\Debug\TB.xml
+D:\semester 4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.Form1.resources
+D:\semester 4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.Resources.resources
+D:\semester 4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.vbproj.GenerateResource.Cache
+D:\semester 4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.exe
+D:\semester 4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.xml
+D:\semester 4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.pdb
+D:\semester 4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.Home.resources
+D:\semester 4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.Form2.resources
+D:\semester 4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.Form3.resources
+D:\semester 4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.Form4.resources
+G:\Document\Kuliah Smt.4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.exe
+G:\Document\Kuliah Smt.4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.xml
+G:\Document\Kuliah Smt.4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.pdb
+G:\Document\Kuliah Smt.4\Pemrograman Visual\TB\TB\bin\Debug\TB.exe
+G:\Document\Kuliah Smt.4\Pemrograman Visual\TB\TB\bin\Debug\TB.pdb
+G:\Document\Kuliah Smt.4\Pemrograman Visual\TB\TB\bin\Debug\TB.xml
+G:\Document\Kuliah Smt.4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.loading.resources
+G:\Document\Kuliah Smt.4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.Form2.resources
+G:\Document\Kuliah Smt.4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.Form1.resources
+G:\Document\Kuliah Smt.4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.Home.resources
+G:\Document\Kuliah Smt.4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.Resources.resources
+G:\Document\Kuliah Smt.4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.Form3.resources
+G:\Document\Kuliah Smt.4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.Form4.resources
+G:\Document\Kuliah Smt.4\Pemrograman Visual\TB\TB\obj\x86\Debug\TB.vbproj.GenerateResource.Cache

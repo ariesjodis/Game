@@ -1,0 +1,17 @@
+	=============ENSIKLOPEDIA INDONESIA==============
+
+**PROGRAM CREATED BY 
+     ARIES JODI S			(110533430556)   Offering C     
+     MIRANTI DWI KURNIA			(110533430523)   Offering B
+     RENITHA ERDIANA			(110533430681)   Offering B
+     DEWI RIZKA FITHRIYAH		(110533406986)   Offering A
+
+User Guide :
+Tebak Kata berdasarkan kategori yang dipilih
+
+**THIS PROGRAM FOR FINAL EXAMINATION VISUAL PROGRAMMING
+	Copyright 2013 VB.All rights reserved
+
+	========				===========
+	           ============THANK YOU===========
+                                           	         ^-^
